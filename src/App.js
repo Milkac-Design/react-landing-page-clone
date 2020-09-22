@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import React from 'react';
+
 import './App.css';
 import { css, jsx } from '@emotion/core';
 import logo from './images/logo-metal-gradient.svg';
